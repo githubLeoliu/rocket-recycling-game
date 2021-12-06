@@ -1,9 +1,6 @@
 import numpy as np
 import pygame
-from controller import Controller
 from rocket import Rocket
-import keyboard
-
 # constant
 g = 9.8
 

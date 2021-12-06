@@ -31,7 +31,9 @@ See [Requirements.txt](Requirements.txt).
 
 To play the game './game'
 
-
+instruction: 
+up/down arrow: adjust thrust
+left/right arrow: adjust nozzle angle
 
 ## Citation
 
